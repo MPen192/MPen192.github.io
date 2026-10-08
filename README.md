@@ -9,18 +9,25 @@
 >>PCR-based
 
 #### Environmental DNA (eDNA) Processing
->Experimental Design
->Protocol Development & Testing
->Aquatic eDNA Field Sampling
->Assay Development & Validation
->Laboratory Setup
+>>Experimental Design
+>>
+>>Protocol Development & Testing
+>>
+>>Aquatic eDNA Field Sampling
+>>
+>>Assay Development & Validation
 >
+>>Laboratory Setup
 
 #### Laboratory Management
->Protocol Costing
->Inventory Management
->Quoting
->Shipping & Receiving
->Device Setup & Calibration
+>>Protocol Costing
+>>
+>>Inventory Management
+>>
+>>Quoting
+>>
+>>Shipping & Receiving
+>>
+>>Device Setup & Calibration
 
 
